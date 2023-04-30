@@ -1,4 +1,4 @@
-<img src="https://imgur.com/a/K7b1LWe" alt="demo"/>
+<img src="https://i.imgur.com/HcaD2Ox.jpeg" alt="demo"/>
 
 # Photography ![OpenCollective](https://opencollective.com/photography/tiers/backer/badge.svg?label=backer&color=brightgreen)
 A jekyll website for photographers
